@@ -1,0 +1,12 @@
+{
+    "I2C_Rate": 0.012,
+    "C2I_Rate": 89,
+    "LTC": "LXHeHiAtj7Jvwo93F1HGkRe9TNss7r2jh6",
+    "BTC": "-------",
+    "ETH": "-------",
+    "UPI": "nothing yet",
+    "Twitch_URL": "https://twitch.tv/wallibear",
+    "SERVER_LINK": "https://discord.gg/galaxyawake",
+    "channel_ids": [1172759142994280508 ,1172759156512530432],
+    "Token": "token here"
+}
